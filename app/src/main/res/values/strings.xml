@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">HydroBuddy</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_buddy">Buddy</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="home_greeting_morning">Good morning</string>
+    <string name="home_greeting_afternoon">Good afternoon</string>
+    <string name="home_greeting_evening">Good evening</string>
+    <string name="home_subtitle">Stay hydrated throughout the day</string>
+    <string name="home_daily_goal">Daily Goal</string>
+    <string name="home_intake_label">Today\'s Intake</string>
+    <string name="home_remaining_label">Remaining</string>
+    <string name="home_goal_reached">Goal Reached</string>
+    <string name="home_quick_log">Quick Log</string>
+    <string name="home_custom_log">Custom Amount</string>
+    <string name="home_log_250">+250 ml</string>
+    <string name="home_log_500">+500 ml</string>
+    <string name="home_log_custom">Custom</string>
+    <string name="home_remind_me_now">Remind me now</string>
+    <string name="home_next_reminder_in">Next reminder in %1$s</string>
+    <string name="home_outside_active_hours">Outside active hours, next at %1$s</string>
+    <string name="home_history">History</string>
+    <string name="home_wardrobe">Wardrobe</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_subtitle">Hydration goals, schedule and Pip</string>
+    <string name="settings_daily_goal_title">Daily Goal</string>
+    <string name="settings_daily_goal_desc">Target hydration amount per day (500 ml to 6000 ml)</string>
+    <string name="settings_unit_ml">ml</string>
+    <string name="settings_unit_litres">L</string>
+    <string name="settings_goal_validation_error">Enter a value between 500 ml and 6000 ml</string>
+    <string name="settings_goal_saved">Goal updated</string>
+
+    <string name="settings_reminder_schedule_title">Reminder Schedule</string>
+    <string name="settings_reminder_schedule_desc">Interval and active hours for reminder alerts</string>
+    <string name="settings_interval_label">Reminder Interval</string>
+    <string name="settings_interval_min">%1$d min</string>
+    <string name="settings_interval_hours">%1$s</string>
+
+    <string name="settings_active_hours_title">Active Hours</string>
+    <string name="settings_active_hours_desc">Reminders only trigger within this time window</string>
+    <string name="settings_active_start">Start Time</string>
+    <string name="settings_active_end">End Time</string>
+    <string name="settings_window_overnight">Window crosses midnight</string>
+
+    <string name="settings_pip_size_title">Pip Mascot Size</string>
+    <string name="settings_pip_size_desc">Scales Pip on home screen and reminder overlays</string>
+    <string name="settings_pip_size_percent">%1$d%%</string>
+
+    <string name="settings_personality_title">Pip Personality</string>
+    <string name="settings_personality_desc">Choose how Pip interacts during reminders</string>
+    <string name="personality_friendly">Friendly</string>
+    <string name="personality_friendly_desc">Supportive, gentle and encouraging reminders</string>
+    <string name="personality_sad">Sad</string>
+    <string name="personality_sad_desc">Dramatic guilt-trips when you miss hydration</string>
+    <string name="personality_rude">Rude</string>
+    <string name="personality_rude_desc">Comedic sarcasm and aggressive reminders</string>
+    <string name="personality_rude_warning_title">Enable Rude Personality?</string>
+    <string name="personality_rude_warning_msg">Pip will use sarcastic humor and brandish a cartoon knife when you refuse water. This is an opt-in mode.</string>
+    <string name="personality_opt_in_confirm">Enable Rude Pip</string>
+    <string name="personality_opt_in_cancel">Cancel</string>
+
+    <!-- Dialogs & Buttons -->
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_done">Done</string>
+
+    <!-- Reminder Dialogue Default Text -->
+    <string name="reminder_question">Did you drink water?</string>
+    <string name="reminder_friendly_yes">Great job staying hydrated. Keep it up.</string>
+    <string name="reminder_friendly_no">No problem. Remember to take a sip when you can.</string>
+    <string name="reminder_sad_yes">Thank you for drinking water.</string>
+    <string name="reminder_sad_no">I am disappointed that you have not had water.</string>
+    <string name="reminder_rude_yes">Finally. About time you drank some water.</string>
+    <string name="reminder_rude_no">Drink water right now or else.</string>
+
+    <!-- Time / Dates -->
+    <string name="time_am">AM</string>
+    <string name="time_pm">PM</string>
+</resources>

@@ -1,0 +1,16 @@
+# Baseline Profile for HydroBuddy
+Lcom/hydrobuddy/app/MainActivity;
+Lcom/hydrobuddy/app/MainActivityKt;
+Lcom/hydrobuddy/app/viewmodel/HydroViewModel;
+Lcom/hydrobuddy/app/data/datastore/HydroDataStore;
+Lcom/hydrobuddy/app/data/model/AppThemeMode;
+Lcom/hydrobuddy/app/ui/theme/ThemeKt;
+Lcom/hydrobuddy/app/ui/components/FloatingBottomDockKt;
+Lcom/hydrobuddy/app/ui/screens/home/HomeScreenKt;
+Lcom/hydrobuddy/app/ui/screens/statistics/StatisticsScreenKt;
+Lcom/hydrobuddy/app/ui/screens/customize/CharacterCustomizationScreenKt;
+Lcom/hydrobuddy/app/ui/screens/settings/UnifiedSettingsScreenKt;
+Lcom/hydrobuddy/app/ui/mascot/PipCharacterViewKt;
+Lcom/hydrobuddy/app/ui/mascot/PipAnimationState;
+Lio/github/sceneview/SceneView;
+Lio/github/sceneview/node/ModelNode;
